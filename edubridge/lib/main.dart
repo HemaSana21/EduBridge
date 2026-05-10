@@ -31,3 +31,4 @@ class EduBridgeApp extends StatelessWidget {
     );
   }
 }
+

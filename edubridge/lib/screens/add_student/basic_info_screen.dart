@@ -176,14 +176,3 @@ class _BasicInfoScreenState extends State<BasicInfoScreen> {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
